@@ -1,0 +1,7 @@
+/home/mayang8/open_source/calc_type_reg-/src/CMakeFiles/CalcTypeReg.dir
+/home/mayang8/open_source/calc_type_reg-/src/CMakeFiles/edit_cache.dir
+/home/mayang8/open_source/calc_type_reg-/src/CMakeFiles/rebuild_cache.dir
+/home/mayang8/open_source/calc_type_reg-/src/CMakeFiles/list_install_components.dir
+/home/mayang8/open_source/calc_type_reg-/src/CMakeFiles/install.dir
+/home/mayang8/open_source/calc_type_reg-/src/CMakeFiles/install/local.dir
+/home/mayang8/open_source/calc_type_reg-/src/CMakeFiles/install/strip.dir

@@ -1,0 +1,6 @@
+src/ai_model/bin/model/crnn_0907.pt
+src/ai_model/bin/model/model_det/yolov4_512_0922.weights
+src/ai_model/bin/model/model_det/yolov4_512_50004.weights
+src/ai_model/bin/model/model_det/yolov4_512_41000.weights
+src/ai_model/lib/libcublas.so
+src/ai_model/lib/libcublas.so.10.0
